@@ -4,7 +4,7 @@ Jogo amigo secreto
 
 ![image](https://github.com/user-attachments/assets/c329cca6-7547-4218-b36e-a52032adfd6d)
 
-Nesse jogo você escreve o nome dos seus amigos e adiciona a lista do sorteo
+Nesse jogo você escreve o nome dos seus amigos e adiciona a lista do sorteio
 
 ![image](https://github.com/user-attachments/assets/374aa7c9-0047-4c9e-b272-42b825ddb36a)
 
